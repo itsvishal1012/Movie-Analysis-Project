@@ -1,7 +1,7 @@
 # 🎬 Movie Analysis Project
 
 ## 📌 Overview
-This project performs **data analysis on movie datasets** to extract meaningful insights, visualize trends, and discover interesting patterns in **IMDB scores, genres, countries, and more!**
+This project performs **data analysis on movie datasets** to extract meaningful insights, visualize trends, and discover interesting patterns in **IMDB scores, genres, countries, stars and more!**
 
 ## 🛠️ Technologies Used
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
